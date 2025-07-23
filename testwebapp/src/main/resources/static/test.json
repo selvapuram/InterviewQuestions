@@ -1,0 +1,753 @@
+{
+  "results": [
+    {
+      "fsq_id": "535d0ecf498e482b55d797f3",
+      "categories": [
+        {
+          "id": 16026,
+          "name": "Monument",
+          "short_name": "Monument",
+          "plural_name": "Monuments",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 274,
+      "geocodes": {
+        "main": {
+          "latitude": 41.389812,
+          "longitude": 2.186552
+        },
+        "roof": {
+          "latitude": 41.389838,
+          "longitude": 2.186713
+        }
+      },
+      "link": "/v3/places/535d0ecf498e482b55d797f3",
+      "location": {
+        "address": "Passeig de Picasso, 21",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Passeig de Picasso, 21, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Cascada Monumental",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda50f964a5203b4121e3",
+          "categories": [
+            {
+              "id": 10028,
+              "name": "Art Museum",
+              "short_name": "Art Museum",
+              "plural_name": "Art Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Parc de la Ciutadella"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda50f964a5203b4121e3",
+      "categories": [
+        {
+          "id": 10028,
+          "name": "Art Museum",
+          "short_name": "Art Museum",
+          "plural_name": "Art Museums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 358,
+      "geocodes": {
+        "main": {
+          "latitude": 41.388366,
+          "longitude": 2.186267
+        }
+      },
+      "link": "/v3/places/4adcda50f964a5203b4121e3",
+      "location": {
+        "address": "Parc de la Ciutadella, 1",
+        "address_extended": "Pg. de Picasso",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "Pg. de Picasso",
+        "formatted_address": "Parc de la Ciutadella, 1 (Pg. de Picasso), 08005 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08005",
+        "region": "Catalunya"
+      },
+      "name": "Parc de la Ciutadella",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "514f1adfe4b06c69f853976b",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Hivernacle"
+          },
+          {
+            "fsq_id": "4adcda51f964a520774121e3",
+            "categories": [
+              {
+                "id": 10027,
+                "name": "Museum",
+                "short_name": "Museum",
+                "plural_name": "Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Castell dels Tres Dragons"
+          },
+          {
+            "fsq_id": "535d0ecf498e482b55d797f3",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cascada Monumental"
+          },
+          {
+            "fsq_id": "4bb85b33314e95218b65489d",
+            "categories": [
+              {
+                "id": 10031,
+                "name": "Science Museum",
+                "short_name": "Science Museum",
+                "plural_name": "Science Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_science_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Museu Martorell"
+          },
+          {
+            "fsq_id": "4adcda50f964a520534121e3",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Desconsol"
+          },
+          {
+            "fsq_id": "4bb85c3b314e95212266489d",
+            "categories": [
+              {
+                "id": 10031,
+                "name": "Science Museum",
+                "short_name": "Science Museum",
+                "plural_name": "Science Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_science_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Museu de Zoologia"
+          },
+          {
+            "fsq_id": "4bb7e5ca3db7b713dfbe209a",
+            "categories": [
+              {
+                "id": 10031,
+                "name": "Science Museum",
+                "short_name": "Science Museum",
+                "plural_name": "Science Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_science_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Laboratori de Natura"
+          },
+          {
+            "fsq_id": "4adcda50f964a520634121e3",
+            "categories": [
+              {
+                "id": 10056,
+                "name": "Zoo",
+                "short_name": "Zoo",
+                "plural_name": "Zoos",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "El Zoo de Barcelona"
+          },
+          {
+            "fsq_id": "577c136c498ea86296ec4b53",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lago Parc de la Ciutadella"
+          },
+          {
+            "fsq_id": "4d08e5eb84ec224b8c1a2c62",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ludoteca ambiental"
+          },
+          {
+            "fsq_id": "4adcda51f964a520c84121e3",
+            "categories": [
+              {
+                "id": 12000,
+                "name": "Community and Government",
+                "short_name": "Community and Government",
+                "plural_name": "Communities and Government",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parlament de Catalunya"
+          },
+          {
+            "fsq_id": "52ed257611d22067ff4b1218",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Plaça de Joan Fiveller"
+          },
+          {
+            "fsq_id": "4c8e158758668cfa0ba2ceec",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Umbracle"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e5a88af18388cd5cbb1f5b9",
+      "categories": [
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "short_name": "Lounge",
+          "plural_name": "Lounges",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 665,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.386955,
+          "longitude": 2.196849
+        },
+        "main": {
+          "latitude": 41.386653,
+          "longitude": 2.196624
+        },
+        "roof": {
+          "latitude": 41.386653,
+          "longitude": 2.196624
+        }
+      },
+      "link": "/v3/places/4e5a88af18388cd5cbb1f5b9",
+      "location": {
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Barcelona Catalunya",
+        "locality": "Barcelona",
+        "region": "Catalunya"
+      },
+      "name": "Hotel Arts Ritz Club Lounge",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda4cf964a520943f21e3",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Hotel Arts Barcelona"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda50f964a520384121e3",
+      "categories": [
+        {
+          "id": 16026,
+          "name": "Monument",
+          "short_name": "Monument",
+          "plural_name": "Monuments",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 790,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.390806,
+          "longitude": 2.180434
+        },
+        "main": {
+          "latitude": 41.391054,
+          "longitude": 2.180625
+        },
+        "roof": {
+          "latitude": 41.391054,
+          "longitude": 2.180625
+        }
+      },
+      "link": "/v3/places/4adcda50f964a520384121e3",
+      "location": {
+        "address_extended": "Pg. Sant Joan",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "Pg. Sant Joan",
+        "formatted_address": "Pg. Sant Joan, 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "Triumphal Arch (Arc de Triomf)",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5b8521d489e490002cefef18",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 981,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.397031,
+          "longitude": 2.183232
+        },
+        "main": {
+          "latitude": 41.397168,
+          "longitude": 2.183123
+        },
+        "roof": {
+          "latitude": 41.397168,
+          "longitude": 2.183123
+        }
+      },
+      "link": "/v3/places/5b8521d489e490002cefef18",
+      "location": {
+        "address": "Calle D'Ausiàs Marc, 151",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "formatted_address": "Calle D'Ausiàs Marc, 151, 08013 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08013",
+        "region": "Catalunya"
+      },
+      "name": "Three Marks Coffee",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c5144e3375c0f475ed8ae93",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13039,
+          "name": "Deli",
+          "short_name": "Deli",
+          "plural_name": "Delis",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1117,
+      "geocodes": {
+        "main": {
+          "latitude": 41.380047,
+          "longitude": 2.189279
+        },
+        "roof": {
+          "latitude": 41.380047,
+          "longitude": 2.189279
+        }
+      },
+      "link": "/v3/places/4c5144e3375c0f475ed8ae93",
+      "location": {
+        "address": "Carrer del Baluart, 38",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "C. d'Escuder",
+        "formatted_address": "Carrer del Baluart, 38 (C. d'Escuder), 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Forn Baluard",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "51f7ed4d498ed09ccd6b31f4",
+      "categories": [
+        {
+          "id": 17018,
+          "name": "Bookstore",
+          "short_name": "Bookstore",
+          "plural_name": "Bookstores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1056,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.391644,
+          "longitude": 2.177556
+        },
+        "main": {
+          "latitude": 41.39182,
+          "longitude": 2.177699
+        },
+        "roof": {
+          "latitude": 41.39182,
+          "longitude": 2.177699
+        }
+      },
+      "link": "/v3/places/51f7ed4d498ed09ccd6b31f4",
+      "location": {
+        "address": "Calle Bailén, 8",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "C. Alí Bei",
+        "formatted_address": "Calle Bailén, 8 (C. Alí Bei), 08010 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08010",
+        "region": "Catalunya"
+      },
+      "name": "Librería Gigamesh",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "54b25f1b498ec7c488e87ba2",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1071,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.388786,
+          "longitude": 2.177259
+        },
+        "main": {
+          "latitude": 41.388833,
+          "longitude": 2.177238
+        },
+        "roof": {
+          "latitude": 41.388833,
+          "longitude": 2.177238
+        }
+      },
+      "link": "/v3/places/54b25f1b498ec7c488e87ba2",
+      "location": {
+        "address": "Carrer de Sant Pere Més Alt, 49",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer de Sant Pere Més Alt, 49, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Casa Lolea Barcelona",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "52fafeb4498e411285ad33be",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Café",
+          "short_name": "Café",
+          "plural_name": "Cafés",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1078,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.38891,
+          "longitude": 2.177123
+        },
+        "main": {
+          "latitude": 41.388928,
+          "longitude": 2.177136
+        },
+        "roof": {
+          "latitude": 41.388928,
+          "longitude": 2.177136
+        }
+      },
+      "link": "/v3/places/52fafeb4498e411285ad33be",
+      "location": {
+        "address": "Pasatge Sert, 12",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "C. de Trafalgar",
+        "formatted_address": "Pasatge Sert, 12 (C. de Trafalgar), 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Nømad Coffee Lab & Shop",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b7d3919f964a52087b32fe3",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1088,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.382579,
+          "longitude": 2.181697
+        },
+        "main": {
+          "latitude": 41.382639,
+          "longitude": 2.18163
+        },
+        "roof": {
+          "latitude": 41.382639,
+          "longitude": 2.18163
+        }
+      },
+      "link": "/v3/places/4b7d3919f964a52087b32fe3",
+      "location": {
+        "address": "Carrer Dels Agullers, 7",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "formatted_address": "Carrer Dels Agullers, 7, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Vila Viniteca",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 41.39,
+          "longitude": 2.19
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

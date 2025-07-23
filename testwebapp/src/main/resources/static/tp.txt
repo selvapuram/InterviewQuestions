@@ -1,0 +1,62 @@
+import org.junit.Assert;
+
+import java.io.IOException;
+import java.nio.charset.Charset;
+import java.nio.file.*;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.*;
+
+public class Solution {
+
+
+    static class MetricsService {
+      //[2020-04-15T11:00:00.043000] "GET /hpx2 HTTP/1.1" 200 35
+        public void consumeLogEntry(String logEntry) {
+            //TODO
+
+
+
+            }
+
+        }
+
+        public List<AggregatedMetrics> getAggregatedMetrics(String method, String resource, int limit) {
+            //TODO
+
+            return new ArrayList<>();
+        }
+    }
+
+
+    record AggregatedMetrics(
+            LocalDateTime aggregatedMinute,
+            LocalDateTime firstRequest,
+            LocalDateTime lastRequest,
+            int numberOfRequests,
+            int averageTimeToServeInMs,
+            int maximumTimeToServeInMs,
+            int minimumTimeToServeInMs
+    ) {
+    }
+
+    public static LocalDateTime parseDateTime(String isoDateTime) {
+        return LocalDateTime.parse(isoDateTime, DateTimeFormatter.ISO_DATE_TIME);
+    }
+
+    // USAGE EXAMPLE
+
+    public static void main(String[] args) throws Exception {
+        MetricsService service = new MetricsService();
+
+        readTestData().forEach(logEntry -> service.consumeLogEntry(logEntry));
+        List<AggregatedMetrics> results =
+                service.getAggregatedMetrics("GET", "/quotes/latest", 5);
+
+        Assert.assertEquals(5, results.size());
+    }
+
+    private static List<String> readTestData() throws IOException {
+        return Files.readAllLines(Paths.get("/home/coderpad/data/access.log"), Charset.defaultCharset());
+    }
+}
